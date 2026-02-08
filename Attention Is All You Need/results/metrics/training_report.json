@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-02-07T02:20:24.611692",
+  "model_config": {
+    "architecture": "Transformer (Attention Is All You Need)",
+    "encoder_layers": 6,
+    "decoder_layers": 6,
+    "hidden_size": 512,
+    "num_heads": 8,
+    "ff_hidden": 4096,
+    "dropout": 0.1,
+    "vocab_size": 16000
+  },
+  "training_config": {
+    "optimizer": "Noam (Adam)",
+    "learning_rate": "1e-4 (scheduled)",
+    "batch_size": "Variable (from DataLoader)",
+    "label_smoothing": 0.1,
+    "gradient_clip": 1.0,
+    "max_epochs": 32,
+    "early_stopping_patience": 3
+  },
+  "final_results": {
+    "best_epoch": 0,
+    "best_bleu4": 22.957488466614326,
+    "final_train_perplexity": 56.442589266718464,
+    "final_val_perplexity": 48.32429594743635,
+    "best_val_perplexity": 48.32429594743635,
+    "total_epochs_trained": 3
+  },
+  "improvement_metrics": {
+    "perplexity_reduction_percent": 81.38463481972173,
+    "bleu_improvement": 0.0
+  },
+  "convergence_quality": {
+    "avg_train_val_gap": -183.57478516610269,
+    "is_stable": true
+  },
+  "data_points": {
+    "epochs": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "train_perplexity": [
+      902.8229908088618,
+      175.34776732847018,
+      89.18359548270656,
+      56.442589266718464
+    ],
+    "val_perplexity": [
+      259.5935963621744,
+      115.03561329033568,
+      66.54429662239983,
+      48.32429594743635
+    ],
+    "bleu_4_scores": [
+      22.957488466614326,
+      14.367696612929734,
+      21.200626759025184,
+      18.575057999133595
+    ],
+    "learning_rates": [
+      0.00015862107215389135,
+      0.0003172421443077827,
+      0.0004758632164616741,
+      0.0006344842886155654
+    ]
+  }
+}
