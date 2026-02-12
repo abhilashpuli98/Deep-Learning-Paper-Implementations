@@ -1,0 +1,14 @@
+# large model files
+*.pth
+*.pkl
+
+# encoded / processed data
+data/encoded/
+data/sentencepiece/*.model
+
+# outputs
+results/outputs/
+
+# notebook junk
+.ipynb_checkpoints/
+__pycache__/
