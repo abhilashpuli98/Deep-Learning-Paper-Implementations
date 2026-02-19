@@ -7,6 +7,7 @@ The collection will expand with continued study and implementation of advanced r
 Name | Notebook
 --- | ---
 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf) | [![Kaggle link](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sherlock9/neural-machine-translation-by-jointly-learning)
+[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882) | [![Kaggle link](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sherlock9/cnn-for-sentence-classification)
 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | [![Kaggle link](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/sherlock9/attention-is-all-you-need)
 
 
