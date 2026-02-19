@@ -14,3 +14,11 @@ Name | Notebook
 ### Contribution
 
 If you would like to contribute a deep learning paper implementation, then please send the pull request with the jupyter notebook filename as the paper name. Maintaining a single repository showcasing different paper implementations would help other practitioners.
+
+---
+# Connect 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin)](https://www.linkedin.com/in/abhilash-puli)
+[![Medium](https://img.shields.io/badge/Medium-Writing-black?logo=medium)](https://medium.com/@abhilashpuli)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?logo=kaggle)](https://www.kaggle.com/sherlock9)
+[![GitHub](https://img.shields.io/badge/git.io-Profile-lightgrey?logo=github)](https://abhilashpuli98.github.io)
