@@ -1,0 +1,13 @@
+{
+    "vocab_size": 25002,
+    "n_classes": 2,
+    "embed_dim": 300,
+    "filter_sizes": [
+        3,
+        4,
+        5
+    ],
+    "n_filters": 100,
+    "dropout_rate": 0.5,
+    "pad_idx": 0
+}
