@@ -1,0 +1,9 @@
+# large model files
+*.pth
+*.pkl
+
+# encoded / processed data
+*pt
+text8
+data/text8
+models/
